@@ -87,4 +87,5 @@ This project demonstrates how Machine Learning can help businesses identify cust
 
 ## Author
 Thomas P D
+
 B.Tech in Artificial Intelligence & Data Science
